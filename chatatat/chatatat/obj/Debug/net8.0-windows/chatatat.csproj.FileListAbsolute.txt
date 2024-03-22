@@ -1,0 +1,17 @@
+C:\Users\is22-11\source\repos\chatatat\chatatat\bin\Debug\net8.0-windows\chatatat.exe
+C:\Users\is22-11\source\repos\chatatat\chatatat\bin\Debug\net8.0-windows\chatatat.deps.json
+C:\Users\is22-11\source\repos\chatatat\chatatat\bin\Debug\net8.0-windows\chatatat.runtimeconfig.json
+C:\Users\is22-11\source\repos\chatatat\chatatat\bin\Debug\net8.0-windows\chatatat.dll
+C:\Users\is22-11\source\repos\chatatat\chatatat\bin\Debug\net8.0-windows\chatatat.pdb
+C:\Users\is22-11\source\repos\chatatat\chatatat\obj\Debug\net8.0-windows\chatatat.Form1.resources
+C:\Users\is22-11\source\repos\chatatat\chatatat\obj\Debug\net8.0-windows\chatatat.csproj.GenerateResource.cache
+C:\Users\is22-11\source\repos\chatatat\chatatat\obj\Debug\net8.0-windows\chatatat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is22-11\source\repos\chatatat\chatatat\obj\Debug\net8.0-windows\chatatat.AssemblyInfoInputs.cache
+C:\Users\is22-11\source\repos\chatatat\chatatat\obj\Debug\net8.0-windows\chatatat.AssemblyInfo.cs
+C:\Users\is22-11\source\repos\chatatat\chatatat\obj\Debug\net8.0-windows\chatatat.csproj.CoreCompileInputs.cache
+C:\Users\is22-11\source\repos\chatatat\chatatat\obj\Debug\net8.0-windows\chatatat.dll
+C:\Users\is22-11\source\repos\chatatat\chatatat\obj\Debug\net8.0-windows\refint\chatatat.dll
+C:\Users\is22-11\source\repos\chatatat\chatatat\obj\Debug\net8.0-windows\chatatat.pdb
+C:\Users\is22-11\source\repos\chatatat\chatatat\obj\Debug\net8.0-windows\chatatat.genruntimeconfig.cache
+C:\Users\is22-11\source\repos\chatatat\chatatat\obj\Debug\net8.0-windows\ref\chatatat.dll
+C:\Users\is22-11\source\repos\chatatat\chatatat\obj\Debug\net8.0-windows\chatatat.Properties.Resources.resources
